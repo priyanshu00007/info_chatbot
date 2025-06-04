@@ -6,6 +6,7 @@ An AI-powered terminal application built using **LangChain**, **Ollama (LLaMA3)*
 * 📝 Auto-generate SEO-optimized product descriptions
 * 💬 Summarize customer sentiment, pros & cons
   Perfect for brands, marketers, and analysts who want instant insights from raw product feedback.
+![Uploading image.png…]()
 
 ---
 
